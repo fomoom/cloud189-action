@@ -5,7 +5,8 @@
 
 ## Github Actions 部署指南
 
-### 一、Fork 此仓库
+### 一、Fork作者仓库
+作者仓库地址 https://github.com/t00t00-crypto/cloud189-action
 ![image-20200727142541791](https://i.loli.net/2020/07/27/jK5H8FLvt7aBeYX.png)
 
 
@@ -42,4 +43,3 @@
 2. 可以通过 ***Star*** 手动启动一次。
 
    ![image-20200727142617807](https://i.loli.net/2020/07/27/87oQeLJOlZvU3Ep.png)
-## test
