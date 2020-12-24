@@ -1,12 +1,11 @@
 # 天翼云盘自动签到 + 抽奖
 > 天翼云盘自动签到 + 抽奖
 
-***源代码来自：https://51.ruyo.net/16050.html，仅做了一些修改***
-
-## Github Actions 部署指南
+***第一作者源代码来自：https://github.com/peng4740/Cloud189Checkin-Actions 第二作者仅做了一些修改***
+***第二作者仓库地址 https://github.com/t00t00-crypto/cloud189-action ***
+## Github Actions 部署指南（以下代码是第二作者的，如果有疑问请综合查看第一作者和第二作者的代码）
 
 ### 一、Fork作者仓库
-作者仓库地址 https://github.com/t00t00-crypto/cloud189-action
 ![image-20200727142541791](https://i.loli.net/2020/07/27/jK5H8FLvt7aBeYX.png)
 
 
